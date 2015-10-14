@@ -1,5 +1,5 @@
 {
-  "name":"creeper about DUT",
+  "name":"DUT_Academic_Affairs_Page_Creeper",
   "author":"zj",
   "description":"软件综合训练的作业，抓取学校教务处的课表和成绩",
   "dependencies":{
